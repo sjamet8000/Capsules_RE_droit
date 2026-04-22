@@ -39,28 +39,29 @@ Couverture et périmètre de la base
                              +----------------+    |    +---------------------------------+
                      +---->> |Sources du droit|----+--->|Jurisprudence (en texte intégral)|
                      |       +----------------+    |    +---------------------------------+
-                     |                             |
+                     |                             |          
                      |                             |    +------------------------------------+
                      |                             +--->|Norme (en texte intégral en théorie)|
                      |                                  +------------------------------------+
                      |
- .-------------.     |       +-----------------+    +--------------------------------+
-(  LeDoctrinal  )----+---->> |Branches du droit|--->|Toutes les branches représentées|
- `-------------´     |       +-----------------+    +--------------------------------+
+ .-------------.     |       +-----------------+        +--------------------------------+
+(  LeDoctrinal  )----+---->> |Branches du droit|------->|Toutes les branches représentées|
+ `-------------´     |       +-----------------+        +--------------------------------+
                      |
-                     |                              +----------+
-                     |                        +---->|Européenne|
-                     |       +------------+   |     +----------+       +-----------------+
-                     +---->> |Juridictions|---+                   +--->|Constitutionnelle|
-                             +------------+   |                   |    +-----------------+
-                                              |                   |
-                                              |     +---------+   |    +----------+
-                                              +---->|Française|---+--->|Judiciaire|
-                                                    +---------+   |    +----------+
-                                                                  |
-                                                                  |    +---------------+
-                                                                  +--->|Admninistrative|
-                                                                       +---------------+
+                     |                                  +----------+
+                     |                        +-------->|Européenne|
+                     |                        |         +----------+       
+                     |       +------------+   |                            +-----------------+
+                     +---->> |Juridictions|---+                       +--->|Constitutionnelle|
+                             +------------+   |                       |    +-----------------+
+                                              |                       |
+                                              |         +---------+   |    +----------+
+                                              +-------->|Française|---+--->|Judiciaire|
+                                                        +---------+   |    +----------+
+                                                                      |
+                                                                      |    +---------------+
+                                                                      +--->|Admninistrative|
+                                                                           +---------------+
 `````````````````````````````````````````````````````
 ## La recherche simple et thématique
 
@@ -114,6 +115,8 @@ Surtout, c'est le seul endroit où vous pouvez exclure un terme de vos résultat
 ## La page des résultats
 
 Selon que vous regardez la doctrine, la jurisprudence ou la norme, les filtres s'adaptent. En doctrine, vous pouvez filtrer par revue ou par date. En jurisprudence, vous pouvez filtrer par juridiction (française, européenne) ou par nombre de commentaires. En norme, vous filtrerez par type de texte (Loi, décret...). 
+
+<iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_results.html" width="100%" height="600" style="border:none;" allowfullscreen ></iframe> 
 
 ## Le chaînage de références
 
