@@ -94,9 +94,22 @@ Si vous cherchez les publications d'un auteur précis, attention à un piège cl
 
 ## La recherche experte
 
+        --{{0}}--
 Pour votre niveau de recherche, l'option « Recherche experte » sera votre meilleur alliée. Elle permet de créer des équations précises avec les opérateurs booléens ET / OU. Il permet aussi de créer des groupements thématiques (ex: « protection de la vie privée » ET « droit communautaire »).
 Surtout, c'est le seul endroit où vous pouvez exclure un terme de vos résultats, et chercher une expression exacte en utilisant les guillemets.
 
+![interface de la recherche experte](assets/LeDoctrinal/LeDoctrinal_recherche_experte.png) La recherche experte permet d’articuler plusieurs mots-clés de manière plus compréhensible et d’opérer des groupements thématiques
+
+<details>
+
+<summary>**Cliquer pour développer**</summary>
+
+* ![](assets/LeDoctrinal/LeDoctrinal_recherche_exp.png) Groupe thématique « protection de la vie privée »
+* ![](assets/LeDoctrinal/LeDoctrinal_recherche_exp4.png) Groupe thématique « droit communautaire »
+* ![](assets/LeDoctrinal/LeDoctrinal_recherche_exp2.png)
+* ![](assets/LeDoctrinal/LeDoctrinal_recherche_exp3.png) Seule la recherche experte permet d’exclure un terme des résultats
+
+</details>
 
 ## La page des résultats
 
