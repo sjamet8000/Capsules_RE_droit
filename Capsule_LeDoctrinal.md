@@ -114,13 +114,32 @@ Surtout, c'est le seul endroit où vous pouvez exclure un terme de vos résultat
 
 ## La page des résultats
 
+           --{{0}}--
 Selon que vous regardez la doctrine, la jurisprudence ou la norme, les filtres s'adaptent. En doctrine, vous pouvez filtrer par revue ou par date. En jurisprudence, vous pouvez filtrer par juridiction (française, européenne) ou par nombre de commentaires. En norme, vous filtrerez par type de texte (Loi, décret...). 
 
-<iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_results.html" width="100%" height="600" style="border:none;" allowfullscreen ></iframe> 
+<iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_results.html" width="92%" height="100%" style="border:none;" allowfullscreen ></iframe> 
 
 ## Le chaînage de références
 
 C'est la grande force de LeDoctrinal : le chaînage. La notice bibliographique est un vrai carrefour. Depuis une notice, vous pouvez rebondir vers d'autres articles du même auteur, le texte officiel cité, ou le numéro entier de la revue. À l'inverse, à partir d'une décision de justice, un clic vous donne toute la doctrine qui la cite ou la commente. 
+
+![Toutes les sources interrogées sur LeDoctrinal](assets/LeDoctrinal/LeDoctrinal_sources_filtres.png)
+```````````````````````````````````````````````
+
++-------------------------------------------------+
+|                  Doctrine                       |
+|                                                 |
+|- Tri par pertinence,                            |
+|par date de publication                          |
+|- Borner une date                                |
+|- Filtrage par thématiques                       |
+|- Filtrage par revues/mélanges                   |
+|(LeDoctrinal met à jour une liste de ses revues, |
+| mélanges et auteur.ices interrogé.es)           |
++-------------------------------------------------+
+
+
+```````````````````````````````````````````````
 
 ## Les alertes
 
