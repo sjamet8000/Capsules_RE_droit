@@ -23,25 +23,80 @@ translation: Français translations/French.md
 
 # LeDoctrinal
 
+        --{{0}}--
 LeDoctrinal est une base incontournable en droit, mais il faut bien comprendre son périmètre. Elle couvre le droit public, privé et mixte, ainsi que les juridictions européennes et françaises.
 Son point fort : la Doctrine (références bibliographiques avec liens vers les éditeurs) et la Jurisprudence (en texte intégral). Attention en revanche, la partie Norme (législation) y est présente mais souvent capricieuse.
 
+Couverture et périmètre de la base
+---
+
+
+`````````````````````````````````````````````````````
+                                                        +-----------------------------------+
+                                                   +--->|Doctrine (données bibliographiques)|
+                                                   |    +-----------------------------------+
+                                                   |
+                             +----------------+    |    +---------------------------------+
+                     +---->> |Sources du droit|----+--->|Jurisprudence (en texte intégral)|
+                     |       +----------------+    |    +---------------------------------+
+                     |                             |
+                     |                             |    +------------------------------------+
+                     |                             +--->|Norme (en texte intégral en théorie)|
+                     |                                  +------------------------------------+
+                     |
+ .-------------.     |       +-----------------+    +--------------------------------+
+(  LeDoctrinal  )----+---->> |Branches du droit|--->|Toutes les branches représentées|
+ `-------------´     |       +-----------------+    +--------------------------------+
+                     |
+                     |                              +----------+
+                     |                        +---->|Européenne|
+                     |       +------------+   |     +----------+       +-----------------+
+                     +---->> |Juridictions|---+                   +--->|Constitutionnelle|
+                             +------------+   |                   |    +-----------------+
+                                              |                   |
+                                              |     +---------+   |    +----------+
+                                              +---->|Française|---+--->|Judiciaire|
+                                                    +---------+   |    +----------+
+                                                                  |
+                                                                  |    +---------------+
+                                                                  +--->|Admninistrative|
+                                                                       +---------------+
+`````````````````````````````````````````````````````
 ## La recherche simple et thématique
 
+        --{{0}}--
 Pour commencer une recherche thématique, la règle d'or est la simplicité : associez deux mots-clés, trois maximum. Par exemple : « droit à l’oubli » et « intelligence artificielle ». Les options de recherche se cumulent : la base cherchera ces termes à la fois dans les titres et dans les mots-clés des documents. 
+
+Privilégier la simplicité de la requête : associer deux mots-clés maximum.
+![La recherche simple de base](assets/LeDoctrinal/LeDoctrinal_recherche_simple.png)
+
+Les options de recherche se cumulent : ici je recherche les références qui contiennent « droit à l’oubli » et « intelligence artificielle » à la fois dans leur titre et dans leurs mots-clés.
 
 ### La recherche par référence
 
+        --{{0}}--
 Une fonctionnalité très puissante : vous pouvez chercher de la documentation à partir de ce qu'elle cite. Par exemple, si vous étudiez une décision du Tribunal Administratif d’Orléans, vous pouvez faire remonter toute la doctrine qui la commente. N'oubliez pas d'utiliser les abréviations officielles des juridictions. 
+
+Il est possible de rechercher des ressources à partir de ce à quoi elles font références (jurisprudence et législation)
+
+![La recherche simple par références](assets/LeDoctrinal/LeDoctrinal_recherche_simple_them_ref.png)
+
+Par exemple, je cherche ici à faire remonter toutes la doctrine qui cite une décision du Tribunal Administratif d’Orléans.
+
+![Données bibliographiques qui permettent le rebond vers des décisions](assets/LeDoctrinal/LeDoctrinal_decision_TAorleans.png "Pour interroger les juridictions, utilisez les abréviations.")
 
 ### La recherche par auteur
 
+        --{{0}}--
 Si vous cherchez les publications d'un auteur précis, attention à un piège classique de l'interface : ne mettez jamais le prénom et le nom entre guillemets, sinon la recherche échouera. 
+
+![La recherche simple par auteur.ices](assets/LeDoctrinal/LeDoctrinal_recherche_simple_auteur.png "Attention à la recherche par auteur.ice : ne pas mettre mettre prénom et le nom entre guillemets !")
 
 ## La recherche experte
 
 Pour votre niveau de recherche, l'option « Recherche experte » sera votre meilleur alliée. Elle permet de créer des équations précises avec les opérateurs booléens ET / OU. Il permet aussi de créer des groupements thématiques (ex: « protection de la vie privée » ET « droit communautaire »).
 Surtout, c'est le seul endroit où vous pouvez exclure un terme de vos résultats, et chercher une expression exacte en utilisant les guillemets.
+
 
 ## La page des résultats
 
