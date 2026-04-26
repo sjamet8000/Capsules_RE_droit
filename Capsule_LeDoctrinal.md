@@ -117,6 +117,7 @@ Surtout, c'est le seul endroit où vous pouvez exclure un terme de vos résultat
            --{{0}}--
 Selon que vous regardez la doctrine, la jurisprudence ou la norme, les filtres s'adaptent. En doctrine, vous pouvez filtrer par revue ou par date. En jurisprudence, vous pouvez filtrer par juridiction (française, européenne) ou par nombre de commentaires. En norme, vous filtrerez par type de texte (Loi, décret...). 
 
+
 <iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_results.html" width="92%" height="100%" style="border:none;" allowfullscreen ></iframe> 
 
 ## Focus sur les filtres
@@ -162,7 +163,18 @@ Selon que vous regardez la doctrine, la jurisprudence ou la norme, les filtres s
 
 ## Le chaînage de références
 
+        --{{0}}--
 C'est la grande force de LeDoctrinal : le chaînage. La notice bibliographique est un vrai carrefour. Depuis une notice, vous pouvez rebondir vers d'autres articles du même auteur, le texte officiel cité, ou le numéro entier de la revue. À l'inverse, à partir d'une décision de justice, un clic vous donne toute la doctrine qui la cite ou la commente. 
+
+La notice bibliographique : le carrefour de LeDoctrinal
+===
+
+<iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_chainage.html" width="92%" height="100%" style="border:none;" allowfullscreen ></iframe> 
+
+Le chaînage à partir d’une décision de justice
+===
+
+<iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_chainage_jp.html" width="92%" height="100%" style="border:none;" allowfullscreen ></iframe> 
 
 ## Les alertes
 
