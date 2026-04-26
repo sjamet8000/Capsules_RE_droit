@@ -37,7 +37,7 @@ Couverture et périmètre de la base
                                                    |    +-----------------------------------+
                                                    |
                              +----------------+    |    +---------------------------------+
-                     +---->> |Sources du droit|----+--->|Jurisprudence (en texte intégral)|
+                     +---->> |Sources du droit+----+--->|Jurisprudence (en texte intégral)|
                      |       +----------------+    |    +---------------------------------+
                      |                             |          
                      |                             |    +------------------------------------+
@@ -45,18 +45,18 @@ Couverture et périmètre de la base
                      |                                  +------------------------------------+
                      |
  .-------------.     |       +-----------------+        +--------------------------------+
-(  LeDoctrinal  )----+---->> |Branches du droit|------->|Toutes les branches représentées|
+(  LeDoctrinal  )----+---->> |Branches du droit+------->|Toutes les branches représentées|
  `-------------´     |       +-----------------+        +--------------------------------+
                      |
                      |                                  +----------+
                      |                        +-------->|Européenne|
                      |                        |         +----------+       
                      |       +------------+   |                            +-----------------+
-                     +---->> |Juridictions|---+                       +--->|Constitutionnelle|
+                     +---->> |Juridictions+---+                       +--->|Constitutionnelle|
                              +------------+   |                       |    +-----------------+
                                               |                       |
                                               |         +---------+   |    +----------+
-                                              +-------->|Française|---+--->|Judiciaire|
+                                              +-------->|Française+---+--->|Judiciaire|
                                                         +---------+   |    +----------+
                                                                       |
                                                                       |    +---------------+
@@ -119,27 +119,50 @@ Selon que vous regardez la doctrine, la jurisprudence ou la norme, les filtres s
 
 <iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_results.html" width="92%" height="100%" style="border:none;" allowfullscreen ></iframe> 
 
+## Focus sur les filtres
+
+        {{0-1}}
+<details>
+
+<summary>![Filtres doctrine](assets/LeDoctrinal/LeDoctrinal_chainage_doct.png)</summary>
+
+**Les filtres pour la Doctrine** :
+* Tri par pertinence, par date de publication ;
+* Borner une date ;
+* Filtrage par **thématiques** ;
+* Filtrage par **revues**/**mélanges** (LeDoctrinal met à jour une liste de ses revues, mélanges et auteur..ices interrogé..es).
+
+</details>
+
+        {{1-2}}
+<details>
+
+<summary>![Filtres jurisprudence](assets/LeDoctrinal/LeDoctrinal_filtre_jp.png)</summary>
+
+**Les filtres pour la jurisprudence** ;
+* Filtrage par **mots-clés** ;
+* Tri par pertinence, date et **nombre de commentaires** ;
+* Filtrage par **mention de publication** ;
+* Filtrage par **juridiction** (internationale, européenne et française) ;
+* Filtrage par **date de décision**.
+
+</details>
+
+        {{2}}
+<details>
+
+<summary>![Filtres jurisprudence](assets/LeDoctrinal/LeDoctrinal_filtre_norme.png)</summary>
+
+**Les filtres pour la norme** :
+* Tri par pertinence, par date de publication ;
+* Borner une **date** ;
+* Filtre par **type de texte** (Lois, décrets, ordonnances, arrêtés, réglementations...).
+
+</details>
+
 ## Le chaînage de références
 
 C'est la grande force de LeDoctrinal : le chaînage. La notice bibliographique est un vrai carrefour. Depuis une notice, vous pouvez rebondir vers d'autres articles du même auteur, le texte officiel cité, ou le numéro entier de la revue. À l'inverse, à partir d'une décision de justice, un clic vous donne toute la doctrine qui la cite ou la commente. 
-
-![Toutes les sources interrogées sur LeDoctrinal](assets/LeDoctrinal/LeDoctrinal_sources_filtres.png)
-```````````````````````````````````````````````
-
-+-------------------------------------------------+
-|                  Doctrine                       |
-|                                                 |
-|- Tri par pertinence,                            |
-|par date de publication                          |
-|- Borner une date                                |
-|- Filtrage par thématiques                       |
-|- Filtrage par revues/mélanges                   |
-|(LeDoctrinal met à jour une liste de ses revues, |
-| mélanges et auteur.ices interrogé.es)           |
-+-------------------------------------------------+
-
-
-```````````````````````````````````````````````
 
 ## Les alertes
 
