@@ -171,8 +171,7 @@ La notice bibliographique : le carrefour de LeDoctrinal
 
 <iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_chainage.html" width="92%" height="100%" style="border:none;" allowfullscreen ></iframe> 
 
-Le chaînage à partir d’une décision de justice
-===
+### Le chaînage à partir d’une décision de justice
 
 <iframe src="https://sjamet8000.github.io/Capsules_RE_droit/activites/LeDoctrinal_chainage_jp.html" width="92%" height="100%" style="border:none;" allowfullscreen ></iframe> 
 
